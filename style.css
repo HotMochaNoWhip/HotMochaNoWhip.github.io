@@ -19,7 +19,7 @@ h6 {
 }
 
 .jumbotron {
-  background-image: url("../images/bacteria.jpg");
+  background-image: url("bacteria.jpg");
   background-size: 100% 100%;
   color: rgb(253, 253, 253);
   text-align: center;
